@@ -1,6 +1,8 @@
 # How-to-Increase-promox-partition
 
 > https://www.youtube.com/watch?v=CcD-9JrRw0k&t=95s
+> https://syncbricks.com/how-to-increase-ubuntu-vg-volume-size-lvm/
+> https://syncbricks.com/how-to-increase-xfs-root-partition/
 
 Before you begin you must use the below command to check the partition details in your Linux server
 ```
